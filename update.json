@@ -1,5 +1,5 @@
 {
-  "version": "1.7.3",
-  "url": "https://github.com/kimkhalid/SmartGateUpdates/releases/download/v1.7.3/SmartGateSetup_1.7.3.exe",
-  "notes": "اضافة زر تسجيل خروج جماعي مع تعديل اخطاء دمج الصور بين الدوامين الاول والثاني"
+  "version": "1.7.4",
+  "url": "https://github.com/kimkhalid/SmartGateUpdates/releases/download/v1.7.4/SmartGateSetup_1.7.4.exe",
+  "notes": "حفظ قاعدة البيانات في حال التحديث وحمايته من الضياع واضافة تصدير تقرير غياب يومي"
 }
